@@ -1,527 +1,4 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml; http://rafail1982.uz/uzbekistan1.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml" tvg-shift="+5" refresh="86400"
-#EXTINF:-1 group-title="Подборка ShopOpt" , Первый
-http://cdn.kubteltv.workers.dev/?ID=1
-#EXTINF:-1 group-title="Подборка ShopOpt" , Россия 1
-http://cdn.kubteltv.workers.dev/?ID=2
-#EXTINF:-1 group-title="Подборка ShopOpt" , НТВ
-http://cdn.kubteltv.workers.dev/?ID=4
-#EXTINF:-1 group-title="Подборка ShopOpt" , 5
-http://cdn.kubteltv.workers.dev/?ID=5
-#EXTINF:-1 group-title="Подборка ShopOpt" , Культура
-http://cdn.kubteltv.workers.dev/?ID=6
-#EXTINF:-1 group-title="Подборка ShopOpt" , Россия 24
-http://cdn.kubteltv.workers.dev/?ID=7
-#EXTINF:-1 group-title="Подборка ShopOpt" , Карусель +
-http://cdn.kubteltv.workers.dev/?ID=8
-#EXTINF:-1 group-title="Подборка ShopOpt" , ОТР
-http://cdn.kubteltv.workers.dev/?ID=9
-#EXTINF:-1 group-title="Подборка ShopOpt" , ТВЦ
-http://cdn.kubteltv.workers.dev/?ID=10
-#EXTINF:-1 group-title="Подборка ShopOpt" , 4
-http://cdn.kubteltv.workers.dev/?ID=11
-#EXTINF:-1 group-title="Подборка ShopOpt" , СПАС
-http://cdn.kubteltv.workers.dev/?ID=12
-#EXTINF:-1 group-title="Подборка ShopOpt" , СТС
-http://cdn.kubteltv.workers.dev/?ID=13
-#EXTINF:-1 group-title="Подборка ShopOpt" , Первый Женский
-http://cdn.kubteltv.workers.dev/?ID=14
-#EXTINF:-1 group-title="Подборка ShopOpt" , Тв3
-http://cdn.kubteltv.workers.dev/?ID=15
-#EXTINF:-1 group-title="Подборка ShopOpt" , Пятница
-http://cdn.kubteltv.workers.dev/?ID=16
-#EXTINF:-1 group-title="Подборка ShopOpt" , Звезда
-http://cdn.kubteltv.workers.dev/?ID=17
-#EXTINF:-1 group-title="Подборка ShopOpt" , МИР 24
-http://cdn.kubteltv.workers.dev/?ID=18
-#EXTINF:-1 group-title="Подборка ShopOpt" , ТНТ
-http://cdn.kubteltv.workers.dev/?ID=19
-#EXTINF:-1 group-title="Подборка ShopOpt" , МУЗтв
-http://cdn.kubteltv.workers.dev/?ID=20
-#EXTINF:-1 group-title="Подборка ShopOpt" , Ю-тв
-http://cdn.kubteltv.workers.dev/?ID=23
-#EXTINF:-1 group-title="Подборка ShopOpt" , ЧЕ
-http://cdn.kubteltv.workers.dev/?ID=24
-#EXTINF:-1 group-title="Подборка ShopOpt" , Казань 24
-http://cdn.kubteltv.workers.dev/?ID=28
-#EXTINF:-1 group-title="Подборка ShopOpt" , 2х2
-http://cdn.kubteltv.workers.dev/?ID=31
-#EXTINF:-1 group-title="Подборка ShopOpt" , ТНТ4
-http://cdn.kubteltv.workers.dev/?ID=32
-#EXTINF:-1 group-title="Подборка ShopOpt" , СТС Love
-http://cdn.kubteltv.workers.dev/?ID=35
-#EXTINF:-1 group-title="Подборка ShopOpt" , 8
-http://cdn.kubteltv.workers.dev/?ID=36
-#EXTINF:-1 group-title="Подборка ShopOpt" , Вместе РФ
-http://cdn.kubteltv.workers.dev/?ID=37
-#EXTINF:-1 group-title="Подборка ShopOpt" , Усадьба
-http://cdn.kubteltv.workers.dev/?ID=38
-#EXTINF:-1 group-title="Подборка ShopOpt" , Краснодар
-http://cdn.kubteltv.workers.dev/?ID=39
-#EXTINF:-1 group-title="Подборка ShopOpt" , FON Муз
-http://cdn.kubteltv.workers.dev/?ID=45
-#EXTINF:-1 group-title="Подборка ShopOpt" , Drive
-http://cdn.kubteltv.workers.dev/?ID=46
-#EXTINF:-1 group-title="Подборка ShopOpt" , Ретро
-http://cdn.kubteltv.workers.dev/?ID=47
-#EXTINF:-1 group-title="Подборка ShopOpt" , Ру тв
-http://cdn.kubteltv.workers.dev/?ID=48
-#EXTINF:-1 group-title="Подборка ShopOpt" , Экс тв
-http://cdn.kubteltv.workers.dev/?ID=50
-#EXTINF:-1 group-title="Подборка ShopOpt" , Союзный 
-http://cdn.kubteltv.workers.dev/?ID=52
-#EXTINF:-1 group-title="Подборка ShopOpt" , РБК
-http://cdn.kubteltv.workers.dev/?ID=57
-#EXTINF:-1 group-title="Подборка ShopOpt" , АВТО 24
-http://cdn.kubteltv.workers.dev/?ID=58
-#EXTINF:-1 group-title="Подборка ShopOpt" , Уникум
-http://cdn.kubteltv.workers.dev/?ID=59
-#EXTINF:-1 group-title="Подборка ShopOpt" , Еврокино
-http://cdn.kubteltv.workers.dev/?ID=60
-#EXTINF:-1 group-title="Подборка ShopOpt" , Зоопарк
-http://cdn.kubteltv.workers.dev/?ID=61
-#EXTINF:-1 group-title="Подборка ShopOpt" , И
-http://cdn.kubteltv.workers.dev/?ID=62
-#EXTINF:-1 group-title="Подборка ShopOpt" , S
-http://cdn.kubteltv.workers.dev/?ID=63
-#EXTINF:-1 group-title="Подборка ShopOpt" , Bridge Hits
-http://cdn.kubteltv.workers.dev/?ID=64
-#EXTINF:-1 group-title="Подборка ShopOpt" , Психология
-http://cdn.kubteltv.workers.dev/?ID=65
-#EXTINF:-1 group-title="Подборка ShopOpt" , Bridge+
-http://cdn.kubteltv.workers.dev/?ID=67
-#EXTINF:-1 group-title="Подборка ShopOpt" , Bridge РУ
-http://cdn.kubteltv.workers.dev/?ID=69
-#EXTINF:-1 group-title="Подборка ShopOpt" , RTG тв
-http://cdn.kubteltv.workers.dev/?ID=70
-#EXTINF:-1 group-title="Подборка ShopOpt" , Оружие
-http://cdn.kubteltv.workers.dev/?ID=71
-#EXTINF:-1 group-title="Подборка ShopOpt" , Ф
-http://cdn.kubteltv.workers.dev/?ID=72
-#EXTINF:-1 group-title="Подборка ShopOpt" , Охота и Рыбалка
-http://cdn.kubteltv.workers.dev/?ID=73
-#EXTINF:-1 group-title="Подборка ShopOpt" , Индийское Кино 
-http://cdn.kubteltv.workers.dev/?ID=77
-#EXTINF:-1 group-title="Подборка ShopOpt" , Красная линия
-http://cdn.kubteltv.workers.dev/?ID=91
-#EXTINF:-1 group-title="Подборка ShopOpt" , Bridge классик
-http://cdn.kubteltv.workers.dev/?ID=92
-#EXTINF:-1 group-title="Подборка ShopOpt" , Контракт
-http://cdn.kubteltv.workers.dev/?ID=105
-#EXTINF:-1 group-title="Подборка ShopOpt" , Матч страна
-http://cdn.kubteltv.workers.dev/?ID=110
-#EXTINF:-1 group-title="Подборка ShopOpt" , ИГРА
-http://cdn.kubteltv.workers.dev/?ID=111
-#EXTINF:-1 group-title="Подборка ShopOpt" , Боец
-http://cdn.kubteltv.workers.dev/?ID=112
-#EXTINF:-1 group-title="Подборка ShopOpt" , АРЕНА
-http://cdn.kubteltv.workers.dev/?ID=113
-#EXTINF:-1 group-title="Подборка ShopOpt" , Шопинг
-http://cdn.kubteltv.workers.dev/?ID=121
-#EXTINF:-1 group-title="Подборка ShopOpt" , Дом кино
-http://cdn.kubteltv.workers.dev/?ID=131
-#EXTINF:-1 group-title="Подборка ShopOpt" , САПФИР
-http://cdn.kubteltv.workers.dev/?ID=132
-#EXTINF:-1 group-title="Подборка ShopOpt" , РЫЖИЙ
-http://cdn.kubteltv.workers.dev/?ID=145
-#EXTINF:-1 group-title="Подборка ShopOpt" , БОБЕР
-http://cdn.kubteltv.workers.dev/?ID=146
-#EXTINF:-1 group-title="Подборка ShopOpt" , TERA
-http://cdn.kubteltv.workers.dev/?ID=148
-#EXTINF:-1 group-title="Подборка ShopOpt" , Кинеко
-http://cdn.kubteltv.workers.dev/?ID=172
-#EXTINF:-1 group-title="Подборка ShopOpt" , IZ
-http://cdn.kubteltv.workers.dev/?ID=176
-#EXTINF:-1 group-title="Подборка ShopOpt" , Смайл ТВ
-http://cdn.kubteltv.workers.dev/?ID=177
-#EXTINF:-1 group-title="Подборка ShopOpt" , Детский МИР
-http://cdn.kubteltv.workers.dev/?ID=186
-#EXTINF:-1 group-title="Подборка ShopOpt" , ТВ 1000
-http://cdn.kubteltv.workers.dev/?ID=191
-#EXTINF:-1 group-title="Подборка ShopOpt" , Vigu+Pr
-http://cdn.kubteltv.workers.dev/?ID=192
-#EXTINF:-1 group-title="Подборка ShopOpt" , КИНОужас
-http://cdn.kubteltv.workers.dev/?ID=200
-#EXTINF:-1 group-title="Подборка ShopOpt" , Канал-С
-http://cdn.kubteltv.workers.dev/?ID=207
-#EXTINF:-1 group-title="Подборка ShopOpt" , 360ру
-http://cdn.kubteltv.workers.dev/?ID=216
-#EXTINF:-1 group-title="Подборка ShopOpt" , 360новости
-http://cdn.kubteltv.workers.dev/?ID=217
-#EXTINF:-1 group-title="Подборка ShopOpt" , Кино-Т
-http://cdn.kubteltv.workers.dev/?ID=219
-#EXTINF:-1 group-title="Подборка ShopOpt" , ФУТБОЛ
-http://cdn.kubteltv.workers.dev/?ID=229
-#EXTINF:-1 group-title="Подборка ShopOpt" , Точка отрыва
-http://cdn.kubteltv.workers.dev/?ID=231
-#EXTINF:-1 group-title="Подборка ShopOpt" , ХИТ
-http://cdn.kubteltv.workers.dev/?ID=255
-#EXTINF:-1 group-title="Подборка ShopOpt" , Загородный 
-http://cdn.kubteltv.workers.dev/?ID=256
-#EXTINF:-1 group-title="Подборка ShopOpt" , Телепутешествия
-http://cdn.kubteltv.workers.dev/?ID=257
-#EXTINF:-1 group-title="Подборка ShopOpt" , Зоо тв
-http://cdn.kubteltv.workers.dev/?ID=258
-#EXTINF:-1 group-title="Подборка ShopOpt" , Медведь
-http://cdn.kubteltv.workers.dev/?ID=259
-#EXTINF:-1 group-title="Подборка ShopOpt" , Da Vinci
-http://cdn.kubteltv.workers.dev/?ID=261
-#EXTINF:-1 group-title="Подборка ShopOpt" , Viju Nature
-http://cdn.kubteltv.workers.dev/?ID=262
-#EXTINF:-1 group-title="Подборка ShopOpt" , Viju Explore
-http://cdn.kubteltv.workers.dev/?ID=263
-#EXTINF:-1 group-title="Подборка ShopOpt" , Viju History
-http://cdn.kubteltv.workers.dev/?ID=264
-#EXTINF:-1 group-title="Подборка ShopOpt" , Viju+Sport
-http://cdn.kubteltv.workers.dev/?ID=265
-#EXTINF:-1 group-title="Подборка ShopOpt" , Победа
-http://cdn.kubteltv.workers.dev/?ID=266
-#EXTINF:-1 group-title="Подборка ShopOpt" , Музыка Первого
-http://cdn.kubteltv.workers.dev/?ID=267
-#EXTINF:-1 group-title="Подборка ShopOpt" , Поехали
-http://cdn.kubteltv.workers.dev/?ID=268
-#EXTINF:-1 group-title="Подборка ShopOpt" , Детский О!
-http://cdn.kubteltv.workers.dev/?ID=270
-#EXTINF:-1 group-title="Подборка ShopOpt" , Теле кафе
-http://cdn.kubteltv.workers.dev/?ID=271
-#EXTINF:-1 group-title="Подборка ShopOpt" , Дом Кино HD
-http://cdn.kubteltv.workers.dev/?ID=272
-#EXTINF:-1 group-title="Подборка ShopOpt" , КЛЮЧ
-http://cdn.kubteltv.workers.dev/?ID=277
-#EXTINF:-1 group-title="Подборка ShopOpt" , Ювелирочка
-http://cdn.kubteltv.workers.dev/?ID=285
-#EXTINF:-1 group-title="Подборка ShopOpt" , I
-http://cdn.kubteltv.workers.dev/?ID=297
-#EXTINF:-1 group-title="Подборка ShopOpt" , Триумф
-http://cdn.kubteltv.workers.dev/?ID=298
-#EXTINF:-1 group-title="Подборка ShopOpt" , Усики
-http://cdn.kubteltv.workers.dev/?ID=299
-#EXTINF:-1 group-title="Подборка ShopOpt" , Молния
-http://cdn.kubteltv.workers.dev/?ID=300
-#EXTINF:-1 group-title="Подборка ShopOpt" , Кино Серия
-http://cdn.kubteltv.workers.dev/?ID=316
-#EXTINF:-1 group-title="Подборка ShopOpt" , Время 0
-http://cdn.kubteltv.workers.dev/?ID=320
-#EXTINF:-1 group-title="Подборка ShopOpt" , Лапки live
-http://cdn.kubteltv.workers.dev/?ID=321
-#EXTINF:-1 group-title="Подборка ShopOpt" , Кинокомедия
-http://cdn.kubteltv.workers.dev/?ID=328
-#EXTINF:-1 group-title="Подборка ShopOpt" , НТВ хит
-http://cdn.kubteltv.workers.dev/?ID=329
-#EXTINF:-1 group-title="Подборка ShopOpt" , Главная Дорога
-http://cdn.kubteltv.workers.dev/?ID=330
-#EXTINF:-1 group-title="Подборка ShopOpt" , НТВ Г
-http://cdn.kubteltv.workers.dev/?ID=331
-#EXTINF:-1 group-title="Подборка ShopOpt" , НТВ С
-http://cdn.kubteltv.workers.dev/?ID=332
-#EXTINF:-1 group-title="Подборка ShopOpt" , RTG int
-http://cdn.kubteltv.workers.dev/?ID=333
-#EXTINF:-1 group-title="Подборка ShopOpt" , Солнце
-http://cdn.kubteltv.workers.dev/?ID=334
-#EXTINF:-1 group-title="Подборка ShopOpt" , Сердце
-http://cdn.kubteltv.workers.dev/?ID=339
-#EXTINF:-1 group-title="Подборка ShopOpt" , Живи активно
-http://cdn.kubteltv.workers.dev/?ID=340
-#EXTINF:-1 group-title="Подборка ShopOpt" , ФОТОтв
-http://cdn.kubteltv.workers.dev/?ID=341
-#EXTINF:-1 group-title="Подборка ShopOpt" , ФОТО2тв
-http://cdn.kubteltv.workers.dev/?ID=342
-#EXTINF:-1 group-title="Подборка ShopOpt" , SUMIKO
-http://cdn.kubteltv.workers.dev/?ID=343
-#EXTINF:-1 group-title="Подборка ShopOpt" , HOME
-http://cdn.kubteltv.workers.dev/?ID=344
-#EXTINF:-1 group-title="Подборка ShopOpt" , МИР 24
-http://cdn.kubteltv.workers.dev/?ID=345
-#EXTINF:-1 group-title="Подборка ShopOpt" , КИНО мульт
-http://cdn.kubteltv.workers.dev/?ID=346
-#EXTINF:-1 group-title="Подборка ShopOpt" , Мульт
-http://cdn.kubteltv.workers.dev/?ID=348
-#EXTINF:-1 group-title="Подборка ShopOpt" , Travel
-http://cdn.kubteltv.workers.dev/?ID=349
-#EXTINF:-1 group-title="Подборка ShopOpt" , Природа
-http://cdn.kubteltv.workers.dev/?ID=350
-#EXTINF:-1 group-title="Подборка ShopOpt" , CINEMA
-http://cdn.kubteltv.workers.dev/?ID=352
-#EXTINF:-1 group-title="Подборка ShopOpt" , Золотая Коллекция
-http://cdn.kubteltv.workers.dev/?ID=353
-#EXTINF:-1 group-title="Подборка ShopOpt" , САV 
-http://cdn.kubteltv.workers.dev/?ID=354
-#EXTINF:-1 group-title="Подборка ShopOpt" , P
-http://cdn.kubteltv.workers.dev/?ID=355
-#EXTINF:-1 group-title="Подборка ShopOpt" , Б
-http://cdn.kubteltv.workers.dev/?ID=356
-#EXTINF:-1 group-title="Подборка ShopOpt" , Д
-http://cdn.kubteltv.workers.dev/?ID=357
-#EXTINF:-1 group-title="Подборка ShopOpt" , REX
-http://cdn.kubteltv.workers.dev/?ID=358
-#EXTINF:-1 group-title="Подборка ShopOpt" , Беларусь 24
-http://cdn.kubteltv.workers.dev/?ID=359
-#EXTINF:-1 group-title="Подборка ShopOpt" , Т24
-http://cdn.kubteltv.workers.dev/?ID=360
-#EXTINF:-1 group-title="Подборка ShopOpt" , Сарафан
-http://cdn.kubteltv.workers.dev/?ID=361
-#EXTINF:-1 group-title="Подборка ShopOpt" , Патриот
-http://cdn.kubteltv.workers.dev/?ID=362
-#EXTINF:-1 group-title="Подборка ShopOpt" , К
-http://cdn.kubteltv.workers.dev/?ID=363
-#EXTINF:-1 group-title="Подборка ShopOpt" , НСТ
-http://cdn.kubteltv.workers.dev/?ID=364
-#EXTINF:-1 group-title="Подборка ShopOpt" , История
-http://cdn.kubteltv.workers.dev/?ID=365
-#EXTINF:-1 group-title="Подборка ShopOpt" , Мульт М
-http://cdn.kubteltv.workers.dev/?ID=366
-#EXTINF:-1 group-title="Подборка ShopOpt" , Аni
-http://cdn.kubteltv.workers.dev/?ID=367
-#EXTINF:-1 group-title="Подборка ShopOpt" , ONe
-http://cdn.kubteltv.workers.dev/?ID=369
-#EXTINF:-1 group-title="Подборка ShopOpt" , Start World
-http://cdn.kubteltv.workers.dev/?ID=371
-#EXTINF:-1 group-title="Подборка ShopOpt" , Start Air
-http://cdn.kubteltv.workers.dev/?ID=372
-#EXTINF:-1 group-title="Подборка ShopOpt" , Мир 
-http://cdn.kubteltv.workers.dev/?ID=374
-#EXTINF:-1 group-title="Подборка ShopOpt" , НТВ HD
-http://cdn.kubteltv.workers.dev/?ID=375
-#EXTINF:-1 group-title="Подборка ShopOpt" , 4HD
-http://cdn.kubteltv.workers.dev/?ID=376
-#EXTINF:-1 group-title="Подборка ShopOpt" , Главный Женский
-http://cdn.kubteltv.workers.dev/?ID=378
-#EXTINF:-1 group-title="Подборка ShopOpt" , 3HD 
-http://cdn.kubteltv.workers.dev/?ID=379
-#EXTINF:-1 group-title="Подборка ShopOpt" , Пятница HD 
-http://cdn.kubteltv.workers.dev/?ID=380
-#EXTINF:-1 group-title="Подборка ShopOpt" , Viju TV1000
-http://cdn.kubteltv.workers.dev/?ID=381
-#EXTINF:-1 group-title="Подборка ShopOpt" , Лапа
-http://cdn.kubteltv.workers.dev/?ID=401
-#EXTINF:-1 group-title="Подборка ShopOpt" , МЯЧ
-http://cdn.kubteltv.workers.dev/?ID=404
-#EXTINF:-1 group-title="Подборка ShopOpt" , Хоккей тв
-http://cdn.kubteltv.workers.dev/?ID=405
-#EXTINF:-1 group-title="Подборка ShopOpt" , ТВ Спорт
-http://cdn.kubteltv.workers.dev/?ID=412
-#EXTINF:-1 group-title="Подборка ShopOpt" , Канал К
-http://cdn.kubteltv.workers.dev/?ID=414
-#EXTINF:-1 group-title="Подборка ShopOpt" , Матч
-http://cdn.kubteltv.workers.dev/?ID=419
-#EXTINF:-1 group-title="Подборка ShopOpt" , ОТР
-http://cdn.kubteltv.workers.dev/?ID=420
-#EXTINF:-1 group-title="Подборка ShopOpt" , 1 HD
-http://cdn.kubteltv.workers.dev/?ID=421
-#EXTINF:-1 group-title="Подборка ShopOpt" , Россия 1 HD
-http://cdn.kubteltv.workers.dev/?ID=422
-#EXTINF:-1 group-title="Подборка ShopOpt" , 5 HD 
-http://cdn.kubteltv.workers.dev/?ID=423
-#EXTINF:-1 group-title="Подборка ShopOpt" , The Explorers
-http://cdn.kubteltv.workers.dev/?ID=443
-#EXTINF:-1 group-title="Подборка ShopOpt" , Мир баскетбола                         
-http://cdn.kubteltv.workers.dev/?ID=451
-#EXTINF:-1 group-title="Подборка ShopOpt" , Shopping Live            
-http://cdn.kubteltv.workers.dev/?ID=454
-#EXTINF:-1 group-title="Подборка ShopOpt" , Bollywood HD      
-http://cdn.kubteltv.workers.dev/?ID=456
-#EXTINF:-1 group-title="Подборка ShopOpt" , Food Time  
-http://cdn.kubteltv.workers.dev/?ID=457
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood HD.png" group-title="ShopOpt основные",Bollywood HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://176.118.197.101/Bollywood_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="ShopOpt основные",Cinema
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Еврокино.png" group-title="ShopOpt основные",Еврокино
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НСТ.png" group-title="ShopOpt основные",НСТ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Иллюзион+.png" group-title="ShopOpt основные",Иллюзион+
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ.png" group-title="ShopOpt основные",ТНТ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://185.46.16.239:8000/TNT
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="ShopOpt основные",НТВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://185.46.16.239:8000/NTV
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg" group-title="ShopOpt основные",Tv Brics
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рен ТВ.png" group-title="ShopOpt основные",Рен ТВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://185.46.16.239:8000/REN_TV
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24.png" group-title="ShopOpt основные",Россия 24
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://176.118.197.101/Rossiya24/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Доктор.png" group-title="ShopOpt основные",Доктор
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://185.46.16.239:8000/Doktor
-#EXTINF:-1 group-title="ShopOpt основные",Беларусское телевидение  1 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="ShopOpt основные", Смотрим Кино и сериалы
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Первый Российский Национальный канал
-https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Конгресс ТВ
-http://live-3.otcnet.ru/congresstv/index.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",нтв хит
-http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",нтв hd
-http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",НТВ-Мир
-https://streaming.televizor-24-tochka.ru/live/213.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",4 канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Рен ТВ International
-http://178.134.1.158:8081/RENTV/index.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Мир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Твц
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",5 канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Первый Женский
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Культура
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Первый Крымский
-https://live1.1tvcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Красная линия
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",ОТР
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Москва доверие
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Мир Белогорья
-http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Россия 1 (+6))
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +2.png" group-title="ShopOpt основные",Россия 1 +2
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +3.png" group-title="ShopOpt основные",Россия 1 +3
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +4.png" group-title="ShopOpt основные",Россия 1 +4
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +5.png" group-title="ShopOpt основные",Россия 1 +5
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +6.png" group-title="ShopOpt основные",Россия 1 +6
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +7.png" group-title="ShopOpt основные",Россия 1 +7
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +8.png" group-title="ShopOpt основные",Россия 1 +8
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +9.png" group-title="ShopOpt основные",Россия 1 +9
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +2.png" group-title="ShopOpt основные",НТВ +2
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://cdn.ntv.ru/ntv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +4.png" group-title="ShopOpt основные",НТВ +4
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://cdn.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал.png" group-title="ShopOpt основные",Первый канал
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия.png" group-title="ShopOpt основные",Известия
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",ITV Cinema
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Россия К HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",555
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://trk555.tv:8888/live
-#EXTINF:-1 group-title="ShopOpt основные",Arktika 24
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Bashkortostan 24
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Channel-16
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",LDPR TV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Nizhniy Novgorod 24
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Samara 24
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" group-title="ShopOpt основные",Первый канал HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="ShopOpt основные",НТВ HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=E5FB6LF5iVXO3ikWKlv1NA&e=2068506931&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ HD.png" group-title="ShopOpt основные",ТНТ HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=LTSrgtYBpE8r2aujUZ81LA&e=2068506931&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4 HD.png" group-title="ShopOpt основные",ТНТ4 HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=gSfZr_b1wBE3aUNAD0mlXA&e=2068506932&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3 HD.png" group-title="ShopOpt основные",ТВ3 HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="ShopOpt основные",2x2
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
-#EXTINF:-1 group-title="ShopOpt основные",Суббота
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=K5qwXPiww7h9EIwodnvrAQ&e=2068506935&scheme=https
-#EXTINF:-1 group-title="ShopOpt основные",Ю
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=ypW_sLxBx1nKFR48-gn7hQ&e=2068506935&scheme=https
-#EXTINF:-1 group-title="ShopOpt основные",Среда
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=8zIg7oO2dj7zRXDm3VJ-mw&e=2068506945&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Жар Птица.png" group-title="ShopOpt основные",Жар Птица
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=7ThCakzq-BJlrMuNMSau4g&e=2068506965&scheme=https
-#EXTINF:-1 group-title="ShopOpt основные",МузТВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JTAW4J-xV9JKMAUbJmgmIQ&e=2068506966&scheme=https
-#EXTINF:-1 group-title="ShopOpt основные",Восток ТВ
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-#EXTINF:-1 group-title="ShopOpt основные",НТВ +1
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://cdn.ntv.ru/ntv1/playlist.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",1 канал HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="ShopOpt основные",360° HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Большая Азия HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Звезда HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Красная линия
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",Неизвестная Россия HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="ShopOpt основные",НТВ HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятница!.png" group-title="Развлекательные",Пятница!
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://vod.tuva.ru/friday/index.m3u8
@@ -2250,6 +1727,529 @@ http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Музыкальные",Страна FM HD
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Подборка ShopOpt" , Первый
+http://cdn.kubteltv.workers.dev/?ID=1
+#EXTINF:-1 group-title="Подборка ShopOpt" , Россия 1
+http://cdn.kubteltv.workers.dev/?ID=2
+#EXTINF:-1 group-title="Подборка ShopOpt" , НТВ
+http://cdn.kubteltv.workers.dev/?ID=4
+#EXTINF:-1 group-title="Подборка ShopOpt" , 5
+http://cdn.kubteltv.workers.dev/?ID=5
+#EXTINF:-1 group-title="Подборка ShopOpt" , Культура
+http://cdn.kubteltv.workers.dev/?ID=6
+#EXTINF:-1 group-title="Подборка ShopOpt" , Россия 24
+http://cdn.kubteltv.workers.dev/?ID=7
+#EXTINF:-1 group-title="Подборка ShopOpt" , Карусель +
+http://cdn.kubteltv.workers.dev/?ID=8
+#EXTINF:-1 group-title="Подборка ShopOpt" , ОТР
+http://cdn.kubteltv.workers.dev/?ID=9
+#EXTINF:-1 group-title="Подборка ShopOpt" , ТВЦ
+http://cdn.kubteltv.workers.dev/?ID=10
+#EXTINF:-1 group-title="Подборка ShopOpt" , 4
+http://cdn.kubteltv.workers.dev/?ID=11
+#EXTINF:-1 group-title="Подборка ShopOpt" , СПАС
+http://cdn.kubteltv.workers.dev/?ID=12
+#EXTINF:-1 group-title="Подборка ShopOpt" , СТС
+http://cdn.kubteltv.workers.dev/?ID=13
+#EXTINF:-1 group-title="Подборка ShopOpt" , Первый Женский
+http://cdn.kubteltv.workers.dev/?ID=14
+#EXTINF:-1 group-title="Подборка ShopOpt" , Тв3
+http://cdn.kubteltv.workers.dev/?ID=15
+#EXTINF:-1 group-title="Подборка ShopOpt" , Пятница
+http://cdn.kubteltv.workers.dev/?ID=16
+#EXTINF:-1 group-title="Подборка ShopOpt" , Звезда
+http://cdn.kubteltv.workers.dev/?ID=17
+#EXTINF:-1 group-title="Подборка ShopOpt" , МИР 24
+http://cdn.kubteltv.workers.dev/?ID=18
+#EXTINF:-1 group-title="Подборка ShopOpt" , ТНТ
+http://cdn.kubteltv.workers.dev/?ID=19
+#EXTINF:-1 group-title="Подборка ShopOpt" , МУЗтв
+http://cdn.kubteltv.workers.dev/?ID=20
+#EXTINF:-1 group-title="Подборка ShopOpt" , Ю-тв
+http://cdn.kubteltv.workers.dev/?ID=23
+#EXTINF:-1 group-title="Подборка ShopOpt" , ЧЕ
+http://cdn.kubteltv.workers.dev/?ID=24
+#EXTINF:-1 group-title="Подборка ShopOpt" , Казань 24
+http://cdn.kubteltv.workers.dev/?ID=28
+#EXTINF:-1 group-title="Подборка ShopOpt" , 2х2
+http://cdn.kubteltv.workers.dev/?ID=31
+#EXTINF:-1 group-title="Подборка ShopOpt" , ТНТ4
+http://cdn.kubteltv.workers.dev/?ID=32
+#EXTINF:-1 group-title="Подборка ShopOpt" , СТС Love
+http://cdn.kubteltv.workers.dev/?ID=35
+#EXTINF:-1 group-title="Подборка ShopOpt" , 8
+http://cdn.kubteltv.workers.dev/?ID=36
+#EXTINF:-1 group-title="Подборка ShopOpt" , Вместе РФ
+http://cdn.kubteltv.workers.dev/?ID=37
+#EXTINF:-1 group-title="Подборка ShopOpt" , Усадьба
+http://cdn.kubteltv.workers.dev/?ID=38
+#EXTINF:-1 group-title="Подборка ShopOpt" , Краснодар
+http://cdn.kubteltv.workers.dev/?ID=39
+#EXTINF:-1 group-title="Подборка ShopOpt" , FON Муз
+http://cdn.kubteltv.workers.dev/?ID=45
+#EXTINF:-1 group-title="Подборка ShopOpt" , Drive
+http://cdn.kubteltv.workers.dev/?ID=46
+#EXTINF:-1 group-title="Подборка ShopOpt" , Ретро
+http://cdn.kubteltv.workers.dev/?ID=47
+#EXTINF:-1 group-title="Подборка ShopOpt" , Ру тв
+http://cdn.kubteltv.workers.dev/?ID=48
+#EXTINF:-1 group-title="Подборка ShopOpt" , Экс тв
+http://cdn.kubteltv.workers.dev/?ID=50
+#EXTINF:-1 group-title="Подборка ShopOpt" , Союзный 
+http://cdn.kubteltv.workers.dev/?ID=52
+#EXTINF:-1 group-title="Подборка ShopOpt" , РБК
+http://cdn.kubteltv.workers.dev/?ID=57
+#EXTINF:-1 group-title="Подборка ShopOpt" , АВТО 24
+http://cdn.kubteltv.workers.dev/?ID=58
+#EXTINF:-1 group-title="Подборка ShopOpt" , Уникум
+http://cdn.kubteltv.workers.dev/?ID=59
+#EXTINF:-1 group-title="Подборка ShopOpt" , Еврокино
+http://cdn.kubteltv.workers.dev/?ID=60
+#EXTINF:-1 group-title="Подборка ShopOpt" , Зоопарк
+http://cdn.kubteltv.workers.dev/?ID=61
+#EXTINF:-1 group-title="Подборка ShopOpt" , И
+http://cdn.kubteltv.workers.dev/?ID=62
+#EXTINF:-1 group-title="Подборка ShopOpt" , S
+http://cdn.kubteltv.workers.dev/?ID=63
+#EXTINF:-1 group-title="Подборка ShopOpt" , Bridge Hits
+http://cdn.kubteltv.workers.dev/?ID=64
+#EXTINF:-1 group-title="Подборка ShopOpt" , Психология
+http://cdn.kubteltv.workers.dev/?ID=65
+#EXTINF:-1 group-title="Подборка ShopOpt" , Bridge+
+http://cdn.kubteltv.workers.dev/?ID=67
+#EXTINF:-1 group-title="Подборка ShopOpt" , Bridge РУ
+http://cdn.kubteltv.workers.dev/?ID=69
+#EXTINF:-1 group-title="Подборка ShopOpt" , RTG тв
+http://cdn.kubteltv.workers.dev/?ID=70
+#EXTINF:-1 group-title="Подборка ShopOpt" , Оружие
+http://cdn.kubteltv.workers.dev/?ID=71
+#EXTINF:-1 group-title="Подборка ShopOpt" , Ф
+http://cdn.kubteltv.workers.dev/?ID=72
+#EXTINF:-1 group-title="Подборка ShopOpt" , Охота и Рыбалка
+http://cdn.kubteltv.workers.dev/?ID=73
+#EXTINF:-1 group-title="Подборка ShopOpt" , Индийское Кино 
+http://cdn.kubteltv.workers.dev/?ID=77
+#EXTINF:-1 group-title="Подборка ShopOpt" , Красная линия
+http://cdn.kubteltv.workers.dev/?ID=91
+#EXTINF:-1 group-title="Подборка ShopOpt" , Bridge классик
+http://cdn.kubteltv.workers.dev/?ID=92
+#EXTINF:-1 group-title="Подборка ShopOpt" , Контракт
+http://cdn.kubteltv.workers.dev/?ID=105
+#EXTINF:-1 group-title="Подборка ShopOpt" , Матч страна
+http://cdn.kubteltv.workers.dev/?ID=110
+#EXTINF:-1 group-title="Подборка ShopOpt" , ИГРА
+http://cdn.kubteltv.workers.dev/?ID=111
+#EXTINF:-1 group-title="Подборка ShopOpt" , Боец
+http://cdn.kubteltv.workers.dev/?ID=112
+#EXTINF:-1 group-title="Подборка ShopOpt" , АРЕНА
+http://cdn.kubteltv.workers.dev/?ID=113
+#EXTINF:-1 group-title="Подборка ShopOpt" , Шопинг
+http://cdn.kubteltv.workers.dev/?ID=121
+#EXTINF:-1 group-title="Подборка ShopOpt" , Дом кино
+http://cdn.kubteltv.workers.dev/?ID=131
+#EXTINF:-1 group-title="Подборка ShopOpt" , САПФИР
+http://cdn.kubteltv.workers.dev/?ID=132
+#EXTINF:-1 group-title="Подборка ShopOpt" , РЫЖИЙ
+http://cdn.kubteltv.workers.dev/?ID=145
+#EXTINF:-1 group-title="Подборка ShopOpt" , БОБЕР
+http://cdn.kubteltv.workers.dev/?ID=146
+#EXTINF:-1 group-title="Подборка ShopOpt" , TERA
+http://cdn.kubteltv.workers.dev/?ID=148
+#EXTINF:-1 group-title="Подборка ShopOpt" , Кинеко
+http://cdn.kubteltv.workers.dev/?ID=172
+#EXTINF:-1 group-title="Подборка ShopOpt" , IZ
+http://cdn.kubteltv.workers.dev/?ID=176
+#EXTINF:-1 group-title="Подборка ShopOpt" , Смайл ТВ
+http://cdn.kubteltv.workers.dev/?ID=177
+#EXTINF:-1 group-title="Подборка ShopOpt" , Детский МИР
+http://cdn.kubteltv.workers.dev/?ID=186
+#EXTINF:-1 group-title="Подборка ShopOpt" , ТВ 1000
+http://cdn.kubteltv.workers.dev/?ID=191
+#EXTINF:-1 group-title="Подборка ShopOpt" , Vigu+Pr
+http://cdn.kubteltv.workers.dev/?ID=192
+#EXTINF:-1 group-title="Подборка ShopOpt" , КИНОужас
+http://cdn.kubteltv.workers.dev/?ID=200
+#EXTINF:-1 group-title="Подборка ShopOpt" , Канал-С
+http://cdn.kubteltv.workers.dev/?ID=207
+#EXTINF:-1 group-title="Подборка ShopOpt" , 360ру
+http://cdn.kubteltv.workers.dev/?ID=216
+#EXTINF:-1 group-title="Подборка ShopOpt" , 360новости
+http://cdn.kubteltv.workers.dev/?ID=217
+#EXTINF:-1 group-title="Подборка ShopOpt" , Кино-Т
+http://cdn.kubteltv.workers.dev/?ID=219
+#EXTINF:-1 group-title="Подборка ShopOpt" , ФУТБОЛ
+http://cdn.kubteltv.workers.dev/?ID=229
+#EXTINF:-1 group-title="Подборка ShopOpt" , Точка отрыва
+http://cdn.kubteltv.workers.dev/?ID=231
+#EXTINF:-1 group-title="Подборка ShopOpt" , ХИТ
+http://cdn.kubteltv.workers.dev/?ID=255
+#EXTINF:-1 group-title="Подборка ShopOpt" , Загородный 
+http://cdn.kubteltv.workers.dev/?ID=256
+#EXTINF:-1 group-title="Подборка ShopOpt" , Телепутешествия
+http://cdn.kubteltv.workers.dev/?ID=257
+#EXTINF:-1 group-title="Подборка ShopOpt" , Зоо тв
+http://cdn.kubteltv.workers.dev/?ID=258
+#EXTINF:-1 group-title="Подборка ShopOpt" , Медведь
+http://cdn.kubteltv.workers.dev/?ID=259
+#EXTINF:-1 group-title="Подборка ShopOpt" , Da Vinci
+http://cdn.kubteltv.workers.dev/?ID=261
+#EXTINF:-1 group-title="Подборка ShopOpt" , Viju Nature
+http://cdn.kubteltv.workers.dev/?ID=262
+#EXTINF:-1 group-title="Подборка ShopOpt" , Viju Explore
+http://cdn.kubteltv.workers.dev/?ID=263
+#EXTINF:-1 group-title="Подборка ShopOpt" , Viju History
+http://cdn.kubteltv.workers.dev/?ID=264
+#EXTINF:-1 group-title="Подборка ShopOpt" , Viju+Sport
+http://cdn.kubteltv.workers.dev/?ID=265
+#EXTINF:-1 group-title="Подборка ShopOpt" , Победа
+http://cdn.kubteltv.workers.dev/?ID=266
+#EXTINF:-1 group-title="Подборка ShopOpt" , Музыка Первого
+http://cdn.kubteltv.workers.dev/?ID=267
+#EXTINF:-1 group-title="Подборка ShopOpt" , Поехали
+http://cdn.kubteltv.workers.dev/?ID=268
+#EXTINF:-1 group-title="Подборка ShopOpt" , Детский О!
+http://cdn.kubteltv.workers.dev/?ID=270
+#EXTINF:-1 group-title="Подборка ShopOpt" , Теле кафе
+http://cdn.kubteltv.workers.dev/?ID=271
+#EXTINF:-1 group-title="Подборка ShopOpt" , Дом Кино HD
+http://cdn.kubteltv.workers.dev/?ID=272
+#EXTINF:-1 group-title="Подборка ShopOpt" , КЛЮЧ
+http://cdn.kubteltv.workers.dev/?ID=277
+#EXTINF:-1 group-title="Подборка ShopOpt" , Ювелирочка
+http://cdn.kubteltv.workers.dev/?ID=285
+#EXTINF:-1 group-title="Подборка ShopOpt" , I
+http://cdn.kubteltv.workers.dev/?ID=297
+#EXTINF:-1 group-title="Подборка ShopOpt" , Триумф
+http://cdn.kubteltv.workers.dev/?ID=298
+#EXTINF:-1 group-title="Подборка ShopOpt" , Усики
+http://cdn.kubteltv.workers.dev/?ID=299
+#EXTINF:-1 group-title="Подборка ShopOpt" , Молния
+http://cdn.kubteltv.workers.dev/?ID=300
+#EXTINF:-1 group-title="Подборка ShopOpt" , Кино Серия
+http://cdn.kubteltv.workers.dev/?ID=316
+#EXTINF:-1 group-title="Подборка ShopOpt" , Время 0
+http://cdn.kubteltv.workers.dev/?ID=320
+#EXTINF:-1 group-title="Подборка ShopOpt" , Лапки live
+http://cdn.kubteltv.workers.dev/?ID=321
+#EXTINF:-1 group-title="Подборка ShopOpt" , Кинокомедия
+http://cdn.kubteltv.workers.dev/?ID=328
+#EXTINF:-1 group-title="Подборка ShopOpt" , НТВ хит
+http://cdn.kubteltv.workers.dev/?ID=329
+#EXTINF:-1 group-title="Подборка ShopOpt" , Главная Дорога
+http://cdn.kubteltv.workers.dev/?ID=330
+#EXTINF:-1 group-title="Подборка ShopOpt" , НТВ Г
+http://cdn.kubteltv.workers.dev/?ID=331
+#EXTINF:-1 group-title="Подборка ShopOpt" , НТВ С
+http://cdn.kubteltv.workers.dev/?ID=332
+#EXTINF:-1 group-title="Подборка ShopOpt" , RTG int
+http://cdn.kubteltv.workers.dev/?ID=333
+#EXTINF:-1 group-title="Подборка ShopOpt" , Солнце
+http://cdn.kubteltv.workers.dev/?ID=334
+#EXTINF:-1 group-title="Подборка ShopOpt" , Сердце
+http://cdn.kubteltv.workers.dev/?ID=339
+#EXTINF:-1 group-title="Подборка ShopOpt" , Живи активно
+http://cdn.kubteltv.workers.dev/?ID=340
+#EXTINF:-1 group-title="Подборка ShopOpt" , ФОТОтв
+http://cdn.kubteltv.workers.dev/?ID=341
+#EXTINF:-1 group-title="Подборка ShopOpt" , ФОТО2тв
+http://cdn.kubteltv.workers.dev/?ID=342
+#EXTINF:-1 group-title="Подборка ShopOpt" , SUMIKO
+http://cdn.kubteltv.workers.dev/?ID=343
+#EXTINF:-1 group-title="Подборка ShopOpt" , HOME
+http://cdn.kubteltv.workers.dev/?ID=344
+#EXTINF:-1 group-title="Подборка ShopOpt" , МИР 24
+http://cdn.kubteltv.workers.dev/?ID=345
+#EXTINF:-1 group-title="Подборка ShopOpt" , КИНО мульт
+http://cdn.kubteltv.workers.dev/?ID=346
+#EXTINF:-1 group-title="Подборка ShopOpt" , Мульт
+http://cdn.kubteltv.workers.dev/?ID=348
+#EXTINF:-1 group-title="Подборка ShopOpt" , Travel
+http://cdn.kubteltv.workers.dev/?ID=349
+#EXTINF:-1 group-title="Подборка ShopOpt" , Природа
+http://cdn.kubteltv.workers.dev/?ID=350
+#EXTINF:-1 group-title="Подборка ShopOpt" , CINEMA
+http://cdn.kubteltv.workers.dev/?ID=352
+#EXTINF:-1 group-title="Подборка ShopOpt" , Золотая Коллекция
+http://cdn.kubteltv.workers.dev/?ID=353
+#EXTINF:-1 group-title="Подборка ShopOpt" , САV 
+http://cdn.kubteltv.workers.dev/?ID=354
+#EXTINF:-1 group-title="Подборка ShopOpt" , P
+http://cdn.kubteltv.workers.dev/?ID=355
+#EXTINF:-1 group-title="Подборка ShopOpt" , Б
+http://cdn.kubteltv.workers.dev/?ID=356
+#EXTINF:-1 group-title="Подборка ShopOpt" , Д
+http://cdn.kubteltv.workers.dev/?ID=357
+#EXTINF:-1 group-title="Подборка ShopOpt" , REX
+http://cdn.kubteltv.workers.dev/?ID=358
+#EXTINF:-1 group-title="Подборка ShopOpt" , Беларусь 24
+http://cdn.kubteltv.workers.dev/?ID=359
+#EXTINF:-1 group-title="Подборка ShopOpt" , Т24
+http://cdn.kubteltv.workers.dev/?ID=360
+#EXTINF:-1 group-title="Подборка ShopOpt" , Сарафан
+http://cdn.kubteltv.workers.dev/?ID=361
+#EXTINF:-1 group-title="Подборка ShopOpt" , Патриот
+http://cdn.kubteltv.workers.dev/?ID=362
+#EXTINF:-1 group-title="Подборка ShopOpt" , К
+http://cdn.kubteltv.workers.dev/?ID=363
+#EXTINF:-1 group-title="Подборка ShopOpt" , НСТ
+http://cdn.kubteltv.workers.dev/?ID=364
+#EXTINF:-1 group-title="Подборка ShopOpt" , История
+http://cdn.kubteltv.workers.dev/?ID=365
+#EXTINF:-1 group-title="Подборка ShopOpt" , Мульт М
+http://cdn.kubteltv.workers.dev/?ID=366
+#EXTINF:-1 group-title="Подборка ShopOpt" , Аni
+http://cdn.kubteltv.workers.dev/?ID=367
+#EXTINF:-1 group-title="Подборка ShopOpt" , ONe
+http://cdn.kubteltv.workers.dev/?ID=369
+#EXTINF:-1 group-title="Подборка ShopOpt" , Start World
+http://cdn.kubteltv.workers.dev/?ID=371
+#EXTINF:-1 group-title="Подборка ShopOpt" , Start Air
+http://cdn.kubteltv.workers.dev/?ID=372
+#EXTINF:-1 group-title="Подборка ShopOpt" , Мир 
+http://cdn.kubteltv.workers.dev/?ID=374
+#EXTINF:-1 group-title="Подборка ShopOpt" , НТВ HD
+http://cdn.kubteltv.workers.dev/?ID=375
+#EXTINF:-1 group-title="Подборка ShopOpt" , 4HD
+http://cdn.kubteltv.workers.dev/?ID=376
+#EXTINF:-1 group-title="Подборка ShopOpt" , Главный Женский
+http://cdn.kubteltv.workers.dev/?ID=378
+#EXTINF:-1 group-title="Подборка ShopOpt" , 3HD 
+http://cdn.kubteltv.workers.dev/?ID=379
+#EXTINF:-1 group-title="Подборка ShopOpt" , Пятница HD 
+http://cdn.kubteltv.workers.dev/?ID=380
+#EXTINF:-1 group-title="Подборка ShopOpt" , Viju TV1000
+http://cdn.kubteltv.workers.dev/?ID=381
+#EXTINF:-1 group-title="Подборка ShopOpt" , Лапа
+http://cdn.kubteltv.workers.dev/?ID=401
+#EXTINF:-1 group-title="Подборка ShopOpt" , МЯЧ
+http://cdn.kubteltv.workers.dev/?ID=404
+#EXTINF:-1 group-title="Подборка ShopOpt" , Хоккей тв
+http://cdn.kubteltv.workers.dev/?ID=405
+#EXTINF:-1 group-title="Подборка ShopOpt" , ТВ Спорт
+http://cdn.kubteltv.workers.dev/?ID=412
+#EXTINF:-1 group-title="Подборка ShopOpt" , Канал К
+http://cdn.kubteltv.workers.dev/?ID=414
+#EXTINF:-1 group-title="Подборка ShopOpt" , Матч
+http://cdn.kubteltv.workers.dev/?ID=419
+#EXTINF:-1 group-title="Подборка ShopOpt" , ОТР
+http://cdn.kubteltv.workers.dev/?ID=420
+#EXTINF:-1 group-title="Подборка ShopOpt" , 1 HD
+http://cdn.kubteltv.workers.dev/?ID=421
+#EXTINF:-1 group-title="Подборка ShopOpt" , Россия 1 HD
+http://cdn.kubteltv.workers.dev/?ID=422
+#EXTINF:-1 group-title="Подборка ShopOpt" , 5 HD 
+http://cdn.kubteltv.workers.dev/?ID=423
+#EXTINF:-1 group-title="Подборка ShopOpt" , The Explorers
+http://cdn.kubteltv.workers.dev/?ID=443
+#EXTINF:-1 group-title="Подборка ShopOpt" , Мир баскетбола                         
+http://cdn.kubteltv.workers.dev/?ID=451
+#EXTINF:-1 group-title="Подборка ShopOpt" , Shopping Live            
+http://cdn.kubteltv.workers.dev/?ID=454
+#EXTINF:-1 group-title="Подборка ShopOpt" , Bollywood HD      
+http://cdn.kubteltv.workers.dev/?ID=456
+#EXTINF:-1 group-title="Подборка ShopOpt" , Food Time  
+http://cdn.kubteltv.workers.dev/?ID=457
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood HD.png" group-title="ShopOpt основные",Bollywood HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="ShopOpt основные",Cinema
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Еврокино.png" group-title="ShopOpt основные",Еврокино
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НСТ.png" group-title="ShopOpt основные",НСТ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Иллюзион+.png" group-title="ShopOpt основные",Иллюзион+
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ.png" group-title="ShopOpt основные",ТНТ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://185.46.16.239:8000/TNT
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="ShopOpt основные",НТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://185.46.16.239:8000/NTV
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg" group-title="ShopOpt основные",Tv Brics
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рен ТВ.png" group-title="ShopOpt основные",Рен ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://185.46.16.239:8000/REN_TV
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24.png" group-title="ShopOpt основные",Россия 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://176.118.197.101/Rossiya24/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Доктор.png" group-title="ShopOpt основные",Доктор
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://185.46.16.239:8000/Doktor
+#EXTINF:-1 group-title="ShopOpt основные",Беларусское телевидение  1 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="ShopOpt основные", Смотрим Кино и сериалы
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Первый Российский Национальный канал
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Конгресс ТВ
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",нтв хит
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",нтв hd
+http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",НТВ-Мир
+https://streaming.televizor-24-tochka.ru/live/213.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",4 канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Рен ТВ International
+http://178.134.1.158:8081/RENTV/index.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Твц
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",5 канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Первый Женский
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Культура
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Первый Крымский
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Москва доверие
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Мир Белогорья
+http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Россия 1 (+6))
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +2.png" group-title="ShopOpt основные",Россия 1 +2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +3.png" group-title="ShopOpt основные",Россия 1 +3
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +4.png" group-title="ShopOpt основные",Россия 1 +4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +5.png" group-title="ShopOpt основные",Россия 1 +5
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +6.png" group-title="ShopOpt основные",Россия 1 +6
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +7.png" group-title="ShopOpt основные",Россия 1 +7
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +8.png" group-title="ShopOpt основные",Россия 1 +8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +9.png" group-title="ShopOpt основные",Россия 1 +9
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +2.png" group-title="ShopOpt основные",НТВ +2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +4.png" group-title="ShopOpt основные",НТВ +4
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал.png" group-title="ShopOpt основные",Первый канал
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Известия.png" group-title="ShopOpt основные",Известия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",ITV Cinema
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Россия К HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",555
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://trk555.tv:8888/live
+#EXTINF:-1 group-title="ShopOpt основные",Arktika 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Bashkortostan 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Channel-16
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",LDPR TV
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Nizhniy Novgorod 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Samara 24
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" group-title="ShopOpt основные",Первый канал HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="ShopOpt основные",НТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=E5FB6LF5iVXO3ikWKlv1NA&e=2068506931&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ HD.png" group-title="ShopOpt основные",ТНТ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=LTSrgtYBpE8r2aujUZ81LA&e=2068506931&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4 HD.png" group-title="ShopOpt основные",ТНТ4 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=gSfZr_b1wBE3aUNAD0mlXA&e=2068506932&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3 HD.png" group-title="ShopOpt основные",ТВ3 HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="ShopOpt основные",2x2
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
+#EXTINF:-1 group-title="ShopOpt основные",Суббота
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=K5qwXPiww7h9EIwodnvrAQ&e=2068506935&scheme=https
+#EXTINF:-1 group-title="ShopOpt основные",Ю
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=ypW_sLxBx1nKFR48-gn7hQ&e=2068506935&scheme=https
+#EXTINF:-1 group-title="ShopOpt основные",Среда
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=8zIg7oO2dj7zRXDm3VJ-mw&e=2068506945&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Жар Птица.png" group-title="ShopOpt основные",Жар Птица
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=7ThCakzq-BJlrMuNMSau4g&e=2068506965&scheme=https
+#EXTINF:-1 group-title="ShopOpt основные",МузТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JTAW4J-xV9JKMAUbJmgmIQ&e=2068506966&scheme=https
+#EXTINF:-1 group-title="ShopOpt основные",Восток ТВ
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+#EXTINF:-1 group-title="ShopOpt основные",НТВ +1
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+https://cdn.ntv.ru/ntv1/playlist.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",1 канал HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="ShopOpt основные",360° HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Большая Азия HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Звезда HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Красная линия
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",Неизвестная Россия HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="ShopOpt основные",НТВ HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png" group-title="Беларусь",Беларусь 24
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
